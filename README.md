@@ -30,6 +30,6 @@ We don't guess; we measure. Lumberjack is instrumented with `pprof` to visualize
 
 ### Installation
 ```bash
-git clone [https://github.com/tjozsa/Lumberjack.git](https://github.com/tjozsa/Lumberjack.git)
+git clone https://github.com/tjozsa/Lumberjack.git
 cd Lumberjack
 ```
